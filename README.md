@@ -1,2 +1,2 @@
-# Showcase_Projects
+# Classification
 Major Data Science projects
